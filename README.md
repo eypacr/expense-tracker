@@ -61,7 +61,7 @@ Expense Tracker, kişisel finansınızı takip etmek için basit bir uygulamadı
 
 Expense Tracker, kişisel finansınızı takip etmek için basit bir uygulamadır. Gelir ve giderlerinizi kolayca kaydedebilir, bütçenizi kontrol edebilir ve mali durumunuzu daha iyi yönetebilirsiniz.
 
-![Ekran Görüntüsü](https://github.com/eypacr/expense-tracker/blob/master/images/GiderTakip.png)
+![Ekran Görüntüsü](https://github.com/eypacr/expense-tracker/blob/main/images/GiderTakip.png)
 
 ## Katkı Sağlama 💡
 
